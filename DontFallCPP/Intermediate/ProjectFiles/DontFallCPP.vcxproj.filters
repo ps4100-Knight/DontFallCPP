@@ -11,6 +11,9 @@
     <None Include="..\..\Source\DontFallCPPEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.ignore" />
+    <None Include="..\..\DontFallCPP.code-workspace" />
+    <None Include="..\..\SCK_Casual01.png" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -28,6 +31,12 @@
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
     </None>
     <Filter Include="Source\DontFallCPP">
       <UniqueIdentifier>{79B52497-1CAC-3CA0-8968-88C6D2ED094F}</UniqueIdentifier>
@@ -51,6 +60,12 @@
       <Filter>Source\DontFallCPP</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\DontFallCPP\DontFallCPPGameMode.h">
+      <Filter>Source\DontFallCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DontFallCPP\MovingPlatforms.cpp">
+      <Filter>Source\DontFallCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DontFallCPP\MovingPlatforms.h">
       <Filter>Source\DontFallCPP</Filter>
     </ClInclude>
   </ItemGroup>

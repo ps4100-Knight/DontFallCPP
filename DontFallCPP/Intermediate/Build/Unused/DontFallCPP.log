@@ -1,0 +1,26 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\pruth\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\PortfolioRepos\DontFall\DontFallCPP).
+  Creating makefile for DontFallCPPEditor (no existing makefile)
+  Building DontFallCPPEditor...
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from DontFallCPP unity file: MovingPlatforms.cpp
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+    Requested 1.5 GB free memory per action, 7.56 GB available: limiting max parallel actions to 5
+  Building 11 actions with 5 processes...
+  [1/11] Compile MovingPlatforms.cpp
+  [2/11] Compile MovingPlatforms.gen.cpp
+  [3/11] Compile DontFallCPP.init.gen.cpp
+  [4/11] Compile DontFallCPP.cpp
+  [5/11] Compile DontFallCPPGameMode.gen.cpp
+  [6/11] Compile DontFallCPPCharacter.gen.cpp
+  [7/11] Compile DontFallCPPGameMode.cpp
+  [8/11] Compile DontFallCPPCharacter.cpp
+  [9/11] Link UnrealEditor-DontFallCPP.lib
+     Creating library D:\PortfolioRepos\DontFall\DontFallCPP\DontFallCPP\Intermediate\Build\Win64\UnrealEditor\Development\DontFallCPP\UnrealEditor-DontFallCPP.lib and object D:\PortfolioRepos\DontFall\DontFallCPP\DontFallCPP\Intermediate\Build\Win64\UnrealEditor\Development\DontFallCPP\UnrealEditor-DontFallCPP.exp
+  [10/11] Link UnrealEditor-DontFallCPP.dll
+     Creating library D:\PortfolioRepos\DontFall\DontFallCPP\DontFallCPP\Intermediate\Build\Win64\UnrealEditor\Development\DontFallCPP\UnrealEditor-DontFallCPP.suppressed.lib and object D:\PortfolioRepos\DontFall\DontFallCPP\DontFallCPP\Intermediate\Build\Win64\UnrealEditor\Development\DontFallCPP\UnrealEditor-DontFallCPP.suppressed.exp
+  [11/11] WriteMetadata DontFallCPPEditor.target
+  Total time in Parallel executor: 4.81 seconds
+  Total execution time: 6.99 seconds

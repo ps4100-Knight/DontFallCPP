@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\dontfallcpp\\dontfallcpp.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\intermediate\\build\\win64\\dontfallcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\intermediate\\build\\win64\\unrealeditor\\development\\dontfallcpp\\definitions.dontfallcpp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

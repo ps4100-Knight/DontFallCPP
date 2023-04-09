@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\source\\dontfallcpp\\movingplatforms.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\intermediate\\build\\win64\\dontfallcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\intermediate\\build\\win64\\unrealeditor\\development\\dontfallcpp\\definitions.dontfallcpp.h",
+            "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\source\\dontfallcpp\\movingplatforms.h",
+            "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\dontfallcpp\\movingplatforms.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

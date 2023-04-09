@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\dontfallcpp\\dontfallcppgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\intermediate\\build\\win64\\dontfallcppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\intermediate\\build\\win64\\unrealeditor\\development\\dontfallcpp\\definitions.dontfallcpp.h",
+            "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\source\\dontfallcpp\\dontfallcppgamemode.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\portfoliorepos\\dontfall\\dontfallcpp\\dontfallcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\dontfallcpp\\dontfallcppgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
