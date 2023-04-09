@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\PortfolioRepos\\DontFall\\DontFallCPP\\DontFallCPP\\Source\\DontFallCPP\\DontFallCPP.Build.cs",
+		"D:\\PortfolioRepos\\DontFall\\DontFallCPP\\DontFallCPP\\Source\\DontFallCPP.Target.cs",
+		"D:\\PortfolioRepos\\DontFall\\DontFallCPP\\DontFallCPP\\Source\\DontFallCPPEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

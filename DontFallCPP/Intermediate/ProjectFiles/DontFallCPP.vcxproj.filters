@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DontFallCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DontFallCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DontFallCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DontFallCPP">
+      <UniqueIdentifier>{79B52497-1CAC-3CA0-8968-88C6D2ED094F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DontFallCPP\DontFallCPP.Build.cs">
+      <Filter>Source\DontFallCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DontFallCPP\DontFallCPP.cpp">
+      <Filter>Source\DontFallCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DontFallCPP\DontFallCPP.h">
+      <Filter>Source\DontFallCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DontFallCPP\DontFallCPPCharacter.cpp">
+      <Filter>Source\DontFallCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DontFallCPP\DontFallCPPCharacter.h">
+      <Filter>Source\DontFallCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DontFallCPP\DontFallCPPGameMode.cpp">
+      <Filter>Source\DontFallCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DontFallCPP\DontFallCPPGameMode.h">
+      <Filter>Source\DontFallCPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

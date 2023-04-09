@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DontFallCPP",
+			"Path": "D:\\PortfolioRepos\\DontFall\\DontFallCPP\\DontFallCPP\\Source\\DontFallCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DontFallCPPEditor",
+			"Path": "D:\\PortfolioRepos\\DontFall\\DontFallCPP\\DontFallCPP\\Source\\DontFallCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
